@@ -1,4 +1,4 @@
-ipywidgets==6.0.0
-matplotlib==3.4.2
-numpy==1.20.3
+ipywidgets
+matplotlib
+numpy
 jupyter_contrib_nbextensions
